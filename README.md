@@ -1,5 +1,6 @@
 # Lanczos-Based-Spectral-Norm-Minimization
-The Pytorch implementation of Lanczos-based Spectral Norm Minimization. (Generalizing and Improving Jacobian and Hessian Regularization)<br />
+The Pytorch implementation of Lanczos-based Spectral Norm Minimization.<br />
+(Generalizing and Improving Jacobian and Hessian Regularization)<br />
 
 **Link:** https://github.com/FrankCuiCN/Lanczos-Based/blob/main/preprint.pdf<br />
 
